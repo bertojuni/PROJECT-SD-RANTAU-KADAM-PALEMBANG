@@ -1,2 +1,2 @@
 # PROJECT-SD-RANTAU-KADAM-PALEMBANG
-project web profil sd rantau kadam dengan CI 3
+ project website profile sekolah SDN 2 RANTAU KADAM PALEMBANG
